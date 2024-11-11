@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Vipin Maurya from Gorakhpur. I am pursuing a B.Tech in Information Technology from DDU Gorakhpur University, Gorakhpur. Currently, I am looking for an internship in Software Development. I have done certifications in MERN Stack and C++ with DSA.
+My name is Vipin Maurya from Gorakhpur. I am pursuing  B.Tech in Information Technology from DDU Gorakhpur University, Gorakhpur. Currently, I am looking for an internship in Software Development. I have done certifications in MERN Stack and C++ with DSA.
 
 
 ## 🌐 Socials:
