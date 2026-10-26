@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Vipin Maurya, DevOps Engineer Apprentice at American Express" />
+<img src="capsule-render.vercel.app/api?type=waving&color=…&…" width="100%" alt="Vipin Maurya, DevOps Engineer Apprentice at American Express" />
+
+<img src="readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&…" alt="Terminal: find idle clusters, argocd sync, terraform plan" />
 
 <br/>
 
@@ -11,13 +13,21 @@
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+---
 
 ### Overview
 
 DevOps Engineer Apprentice at **American Express** with one year of hands-on experience running cloud platforms on **AWS** and **GCP**. I work across **EKS/GKE** operations, GitOps delivery, Terraform-based infrastructure, and production support, with a focus on automation that reduces toil and cloud cost.
 
-<img src="assets/metrics.svg" width="100%" alt="Impact: 1 year experience, 2 cloud platforms, 5 idle clusters retired, top 5 engineer recognition, 500+ LeetCode problems" />
+<table align="center">
+  <tr>
+    <td align="center" width="20%"><h2>1 Yr</h2><sub>DevOps experience</sub></td>
+    <td align="center" width="20%"><h2>2</h2><sub>Cloud platforms</sub></td>
+    <td align="center" width="20%"><h2>5</h2><sub>Idle clusters retired</sub></td>
+    <td align="center" width="20%"><h2>Top 5</h2><sub>Engineer recognition</sub></td>
+    <td align="center" width="20%"><h2>500+</h2><sub>LeetCode problems</sub></td>
+  </tr>
+</table>
 
 ### Experience
 
@@ -36,7 +46,16 @@ DevOps Engineer Apprentice at **American Express** with one year of hands-on exp
 
 ### Delivery Pipeline
 
-<img src="assets/pipeline.svg" width="100%" alt="CI/CD pipeline: commit, secret scan, build image, image scan, Helm digest, Argo CD sync, EKS and GKE" />
+```mermaid
+flowchart LR
+  A[Commit] --> B[Secret Scan] --> C[Build Image] --> D[Image Scan] --> E[Helm Digest] --> F[Argo CD Sync] --> G[EKS · GKE]
+  classDef cyan fill:#0b1220,stroke:#22d3ee,color:#e2e8f0
+  classDef violet fill:#0b1220,stroke:#a78bfa,color:#e2e8f0
+  classDef done fill:#0b1220,stroke:#22c55e,color:#e2e8f0
+  class A,B,C,F cyan
+  class D,E violet
+  class G done
+```
 
 ### Tech Stack
 
@@ -123,8 +142,7 @@ DevOps Engineer Apprentice at **American Express** with one year of hands-on exp
 
 **B.Tech, Information Technology**: Deen Dayal Upadhyaya Gorakhpur University · 2021–2025 · CGPA 7.41/10
 
-<img src="assets/divider.svg" width="100%" alt="" />
-
 <div align="center">
   <sub>Infrastructure as Code · GitOps · Automation First</sub>
+  <img src="capsule-render.vercel.app/api?type=waving&color=…&…" width="100%" alt="" />
 </div>
