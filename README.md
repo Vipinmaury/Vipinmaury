@@ -1,21 +1,130 @@
-# 💫 About Me:
-My name is Vipin Maurya from Gorakhpur. I am pursuing  B.Tech in Information Technology from DDU Gorakhpur University, Gorakhpur. Currently, I am looking for an internship in Software Development. I have done certifications in MERN Stack and C++ with DSA.
+<div align="center">
 
+<img src="assets/hero.svg" width="100%" alt="Vipin Maurya, DevOps Engineer Apprentice at American Express" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vipin-maurya-54b28a215/) 
+<br/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Vipinmaury&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Vipinmaury&theme=cobalt&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vipinmaury&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<a href="linkedin.com/in/…"><img src="img.shields.io/badge/…?style=flat-square&logo=linkedin&…" alt="LinkedIn" /></a>
+<a href="github.com/Vipinmaury"><img src="img.shields.io/badge/GitHub-Vipinmaury-a78bfa?style=flat-square&logo=github&…" alt="GitHub" /></a>
+<a href="leetcode.com/mauryavipin751"><img src="img.shields.io/badge/…?style=flat-square&logo=leetcode&…" alt="LeetCode" /></a>
+<img src="img.shields.io/badge/Based_in-Gurgaon%2C_India-a78bfa?style=flat-square&logo=googlemaps&…" alt="Location" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=Vipinmaury&icon=6&color=2)](https://visitcount.itsvg.in)
+<img src="assets/divider.svg" width="100%" alt="" />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Overview
+
+DevOps Engineer Apprentice at **American Express** with one year of hands-on experience running cloud platforms on **AWS** and **GCP**. I work across **EKS/GKE** operations, GitOps delivery, Terraform-based infrastructure, and production support, with a focus on automation that reduces toil and cloud cost.
+
+<img src="assets/metrics.svg" width="100%" alt="Impact: 1 year experience, 2 cloud platforms, 5 idle clusters retired, top 5 engineer recognition, 500+ LeetCode problems" />
+
+### Experience
+
+**DevOps Engineer Apprentice** · American Express
+<sub>Jan 2026 – Present</sub>
+
+| Focus | What I deliver |
+|---|---|
+| **GitOps CI/CD** | GitHub Actions pipeline that builds and security-scans container images, updates Helm image digests, and triggers Argo CD deployments |
+| **Infrastructure as Code** | AWS and GCP test and production infrastructure provisioned and managed with Terraform |
+| **Kubernetes Operations** | EKS/GKE microservices, cluster upgrades, new-cluster setup, multi-region deployments, and DR exercises |
+| **FinOps Automation** | Automation that identified idle clusters, leading to the shutdown of 3 EKS and 2 GKE clusters |
+| **Platform Support** | On-call support through InfraBot for application onboarding, troubleshooting, and on-prem → EKS/GKE migrations |
+| **Backend Engineering** | Internal application development with Python, FastAPI, and PostgreSQL |
+| **Reliability** | Major Incident Management, root-cause analysis, and RFC-driven change management |
+
+### Delivery Pipeline
+
+<img src="assets/pipeline.svg" width="100%" alt="CI/CD pipeline: commit, secret scan, build image, image scan, Helm digest, Argo CD sync, EKS and GKE" />
+
+### Tech Stack
+
+<table>
+  <tr>
+    <td><b>Cloud</b></td>
+    <td>
+      <img src="cdn.jsdelivr.net/gh/devicons/…/amazonwebservices-plain.svg" width="38" height="38" alt="AWS" title="AWS" />&nbsp;
+      <img src="cdn.jsdelivr.net/gh/devicons/…/googlecloud-original.svg" width="38" height="38" alt="Google Cloud" title="Google Cloud" />
+      <br/><sub>AWS: IAM · EC2 · VPC · S3 · ELB · Auto Scaling &nbsp;|&nbsp; GCP: Compute Engine · IAM · VPC · GCS · Cloud Load Balancing · MIGs</sub>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Containers &amp; GitOps</b></td>
+    <td>
+      <img src="cdn.jsdelivr.net/gh/devicons/…/kubernetes-original.svg" width="38" height="38" alt="Kubernetes" title="Kubernetes (EKS, GKE)" />&nbsp;
+      <img src="cdn.jsdelivr.net/gh/devicons/…/docker-original.svg" width="38" height="38" alt="Docker" title="Docker" />&nbsp;
+      <img src="cdn.jsdelivr.net/gh/devicons/…/helm-original.svg" width="38" height="38" alt="Helm" title="Helm" />&nbsp;
+      <img src="cdn.jsdelivr.net/gh/devicons/…/argocd-original.svg" width="38" height="38" alt="Argo CD" title="Argo CD" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>CI/CD &amp; IaC</b></td>
+    <td>
+      <img src="cdn.jsdelivr.net/gh/devicons/…/terraform-original.svg" width="38" height="38" alt="Terraform" title="Terraform" />&nbsp;
+      <img src="cdn.jsdelivr.net/gh/devicons/…/githubactions-original.svg" width="38" height="38" alt="GitHub Actions" title="GitHub Actions" />&nbsp;
+      <img src="cdn.jsdelivr.net/gh/devicons/…/gitlab-original.svg" width="38" height="38" alt="GitLab" title="GitLab" />&nbsp;
+      <img src="cdn.jsdelivr.net/gh/devicons/…/git-original.svg" width="38" height="38" alt="Git" title="Git" />&nbsp;
+      <img src="cdn.jsdelivr.net/gh/devicons/…/github-original.svg" width="38" height="38" alt="GitHub" title="GitHub" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend &amp; Data</b></td>
+    <td>
+      <img src="cdn.jsdelivr.net/gh/devicons/…/python-original.svg" width="38" height="38" alt="Python" title="Python" />&nbsp;
+      <img src="cdn.jsdelivr.net/gh/devicons/…/fastapi-original.svg" width="38" height="38" alt="FastAPI" title="FastAPI" />&nbsp;
+      <img src="cdn.jsdelivr.net/gh/devicons/…/postgresql-original.svg" width="38" height="38" alt="PostgreSQL" title="PostgreSQL" />&nbsp;
+      <img src="cdn.jsdelivr.net/gh/devicons/…/mongodb-original.svg" width="38" height="38" alt="MongoDB" title="MongoDB" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Observability</b></td>
+    <td>
+      <img src="cdn.jsdelivr.net/gh/devicons/…/prometheus-original.svg" width="38" height="38" alt="Prometheus" title="Prometheus" />&nbsp;
+      <img src="cdn.jsdelivr.net/gh/devicons/…/grafana-original.svg" width="38" height="38" alt="Grafana" title="Grafana" />
+      <br/><sub>CloudWatch · GCP Monitoring</sub>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Workflow</b></td>
+    <td>
+      <img src="cdn.jsdelivr.net/gh/devicons/…/linux-original.svg" width="38" height="38" alt="Linux" title="Linux" />&nbsp;
+      <img src="cdn.jsdelivr.net/gh/devicons/…/postman-original.svg" width="38" height="38" alt="Postman" title="Postman" />&nbsp;
+      <img src="cdn.jsdelivr.net/gh/devicons/…/jira-original.svg" width="38" height="38" alt="Jira" title="Jira" />&nbsp;
+      <img src="cdn.jsdelivr.net/gh/devicons/…/confluence-original.svg" width="38" height="38" alt="Confluence" title="Confluence" />
+      <br/><sub>ServiceNow · AWS DevOps Agent · macOS</sub>
+    </td>
+  </tr>
+</table>
+
+### Recognition
+
+- **Top 5 Engineer**: recognized for deployment, application onboarding, and automation tool development
+- **GrowthHack, American Express**: semifinalist; built *AI Predictive Resilience* with a five-member team
+- **LeetCode**: 500+ problems solved
+
+### Featured Project
+
+**[E-Commerce Store](github.com/Vipinmaury/E-Commerce)**: full-stack online shopping platform
+
+<img src="cdn.jsdelivr.net/gh/devicons/…/react-original.svg" width="26" height="26" alt="React" title="React" />&nbsp;
+<img src="cdn.jsdelivr.net/gh/devicons/…/redux-original.svg" width="26" height="26" alt="Redux" title="Redux" />&nbsp;
+<img src="cdn.jsdelivr.net/gh/devicons/…/tailwindcss-original.svg" width="26" height="26" alt="Tailwind CSS" title="Tailwind CSS" />&nbsp;
+<img src="cdn.jsdelivr.net/gh/devicons/…/nodejs-original.svg" width="26" height="26" alt="Node.js" title="Node.js" />&nbsp;
+<img src="cdn.jsdelivr.net/gh/devicons/…/express-original.svg" width="26" height="26" alt="Express" title="Express" />&nbsp;
+<img src="cdn.jsdelivr.net/gh/devicons/…/mongodb-original.svg" width="26" height="26" alt="MongoDB" title="MongoDB" />
+
+- Product browsing, cart, and order management
+- Redux state management with optimized MongoDB data access
+- JWT authentication with role-based access control
+- Real-time product updates through state synchronization
+
+### Education
+
+**B.Tech, Information Technology**: Deen Dayal Upadhyaya Gorakhpur University · 2021–2025 · CGPA 7.41/10
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<div align="center">
+  <sub>Infrastructure as Code · GitOps · Automation First</sub>
+</div>
