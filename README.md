@@ -1,18 +1,22 @@
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=180&section=header&text=Vipin%20Maurya&fontColor=ffffff&fontSize=42&fontAlignY=35&animation=twinkling" alt="Animated blue futuristic header">
 
-# Vipin Maurya
+<div align="center">
 
 ### DevOps Engineer Apprentice · Cloud · Kubernetes · GitOps
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=Automating+cloud+infrastructure;Shipping+reliable+Kubernetes+platforms;Building+with+GitOps+and+Terraform" alt="Animated text: Automating cloud infrastructure, shipping reliable Kubernetes platforms, and building with GitOps and Terraform">
+
 <a href="https://github.com/Vipinmaury">
-  <img src="https://img.shields.io/badge/GitHub-Vipinmaury-181717?style=for-the-badge&logo=github" alt="GitHub profile">
+  <img src="https://img.shields.io/badge/GitHub-Vipinmaury-0f172a?style=for-the-badge&logo=github" alt="GitHub profile">
 </a>
 <a href="https://leetcode.com/mauryavip751/">
-  <img src="https://img.shields.io/badge/LeetCode-500%2B%20solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode profile">
+  <img src="https://img.shields.io/badge/LeetCode-500%2B%20solved-06b6d4?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode profile">
 </a>
-<img src="https://img.shields.io/badge/Based%20in-Gurgaon%2C%20India-2563EB?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Based in Gurgaon, India">
+<img src="https://img.shields.io/badge/Based%20in-Gurgaon%2C%20India-2563eb?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Based in Gurgaon, India">
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,50:2563eb,100:0f172a&height=3&section=header" alt="">
 
 ## About me
 
@@ -83,3 +87,5 @@ Full-stack online shopping platform built with **React, Redux, Tailwind CSS, Nod
 **Infrastructure as Code · GitOps · Automation First**
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=100&section=footer&animation=twinkling" alt="Animated blue futuristic footer">
