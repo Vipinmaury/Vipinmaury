@@ -73,7 +73,7 @@ Full-stack online shopping platform built with **React, Redux, Tailwind CSS, Nod
 
 ## Education
 
-**B.Tech in Information Technology**  
+**B.Tech in Information Technology**
 [Deen Dayal Upadhyaya Gorakhpur University](https://ddugu.ac.in/) · 2021–2025 · CGPA 7.41/10
 
 ---
