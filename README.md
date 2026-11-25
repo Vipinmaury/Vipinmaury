@@ -1,81 +1,85 @@
-![Vipin Maurya, DevOps Engineer Apprentice at American Express](capsule-render.vercel.app/api?type=waving&color=…&…)
+<div align="center">
 
-![Terminal: find idle clusters, Argo CD sync, and Terraform plan](readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&…)
+# Vipin Maurya
 
-[![LinkedIn](img.shields.io/badge/…?style=flat-square&logo=linkedin&…)](linkedin.com/in/…)
-[![GitHub](img.shields.io/badge/GitHub-Vipinmaury-a78bfa?style=flat-square&logo=github&…)](github.com/Vipinmaury)
-[![LeetCode](img.shields.io/badge/…?style=flat-square&logo=leetcode&…)](leetcode.com/mauryavipin751)
-![Based in Gurgaon, India](img.shields.io/badge/Based_in-Gurgaon%2C_India-a78bfa?style=flat-square&logo=googlemaps&…)
+### DevOps Engineer Apprentice · Cloud · Kubernetes · GitOps
 
----
+<a href="https://github.com/Vipinmaury">
+  <img src="https://img.shields.io/badge/GitHub-Vipinmaury-181717?style=for-the-badge&logo=github" alt="GitHub profile">
+</a>
+<a href="https://leetcode.com/mauryavip751/">
+  <img src="https://img.shields.io/badge/LeetCode-500%2B%20solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode profile">
+</a>
+<img src="https://img.shields.io/badge/Based%20in-Gurgaon%2C%20India-2563EB?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Based in Gurgaon, India">
 
-### Overview
+</div>
 
-DevOps Engineer Apprentice at **American Express** with 10 months of hands-on experience running cloud platforms on **AWS** and **GCP**. I work across **EKS/GKE** operations, GitOps delivery, Terraform-based infrastructure, and production support, with a focus on automation that reduces toil and cloud cost.
+## About me
 
-**10 months** DevOps experience | **2** cloud platforms | **5** idle clusters retired | **Top 5** engineer recognition | **500+** LeetCode problems
+I am a **DevOps Engineer Apprentice at American Express** with hands-on experience running cloud platforms on **AWS** and **GCP**. I work across Kubernetes operations, GitOps delivery, Terraform infrastructure, and production support, with a focus on automation that reduces toil and cloud cost.
 
-### Experience
+- **Cloud:** AWS and GCP
+- **Platforms:** EKS, GKE, Docker, Helm, and Argo CD
+- **Strengths:** Infrastructure as Code, CI/CD, FinOps, reliability, and automation
+- **Recognition:** Top 5 Engineer
 
-**DevOps Engineer Apprentice** · American Express
-*Jan 2026 - Present*
+## Experience
 
-| Focus | What I deliver |
-|---|---|
-| **GitOps CI/CD** | GitHub Actions pipeline that builds and security-scans container images, updates Helm image digests, and triggers Argo CD deployments |
-| **Infrastructure as Code** | AWS and GCP test and production infrastructure provisioned and managed with Terraform |
-| **Kubernetes Operations** | EKS/GKE microservices, cluster upgrades, new-cluster setup, multi-region deployments, and DR exercises |
-| **FinOps Automation** | Automation that identified idle clusters, leading to the shutdown of 3 EKS and 2 GKE clusters |
-| **Platform Support** | On-call support through InfraBot for application onboarding, troubleshooting, and on-prem → EKS/GKE migrations |
-| **Backend Engineering** | Internal application development with Python, FastAPI, and PostgreSQL |
-| **Reliability** | Major Incident Management, root-cause analysis, and RFC-driven change management |
+### DevOps Engineer Apprentice · American Express
 
-### Delivery Pipeline
+*January 2026 – Present*
 
-Commit -> Secret Scan -> Build Image -> Image Scan -> Helm Digest -> Argo CD Sync -> EKS/GKE
+| Area | Impact |
+| --- | --- |
+| **GitOps CI/CD** | Built GitHub Actions pipelines that build and scan images, update Helm image digests, and trigger Argo CD deployments |
+| **Infrastructure as Code** | Provisioned and managed AWS and GCP test and production infrastructure with Terraform |
+| **Kubernetes Operations** | Supported EKS/GKE microservices, cluster upgrades, new-cluster setup, multi-region deployments, and disaster-recovery exercises |
+| **FinOps Automation** | Identified idle clusters, enabling the shutdown of 3 EKS and 2 GKE clusters |
+| **Platform Support** | Supported application onboarding, troubleshooting, and on-premises-to-EKS/GKE migrations |
+| **Backend Engineering** | Developed internal applications with Python, FastAPI, and PostgreSQL |
+| **Reliability** | Contributed to major incident management, root-cause analysis, and RFC-driven change management |
 
-### Tech Stack
+### Delivery pipeline
 
-#### Cloud
-AWS: IAM, EC2, VPC, S3, ELB, Auto Scaling
-GCP: Compute Engine, IAM, VPC, GCS, Cloud Load Balancing, MIGs
+`Commit` → `Secret scan` → `Build image` → `Image scan` → `Helm digest` → `Argo CD sync` → `EKS/GKE`
 
-#### Containers and GitOps
-Kubernetes (EKS/GKE), Docker, Helm, Argo CD
+## Tech stack
 
-#### CI/CD and Infrastructure as Code
-Terraform, GitHub Actions, GitLab, Git, GitHub
+| Category | Tools |
+| --- | --- |
+| **Cloud** | AWS (IAM, EC2, VPC, S3, ELB, Auto Scaling) · GCP (Compute Engine, IAM, VPC, GCS, Cloud Load Balancing, MIGs) |
+| **Containers & GitOps** | Kubernetes (EKS/GKE) · Docker · Helm · Argo CD |
+| **CI/CD & IaC** | Terraform · GitHub Actions · GitLab · Git · GitHub |
+| **Backend & Data** | Python · FastAPI · PostgreSQL · MongoDB |
+| **Observability** | Prometheus · Grafana · CloudWatch · Google Cloud Monitoring |
+| **Workflow** | Linux · Postman · Jira · Confluence · ServiceNow · AWS DevOps Agent · macOS |
 
-#### Backend and Data
-Python, FastAPI, PostgreSQL, MongoDB
+## Recognition
 
-#### Observability
-Prometheus, Grafana, CloudWatch, GCP Monitoring
+- **Top 5 Engineer:** Recognized for deployment, application onboarding, and automation tool development
+- **GrowthHack, American Express:** Semifinalist for *AI Predictive Resilience*, built with a five-member team
+- **LeetCode:** 500+ problems solved
 
-#### Workflow
-Linux, Postman, Jira, Confluence, ServiceNow, AWS DevOps Agent, macOS
+## Featured project
 
-### Recognition
+### [E-Commerce Store](https://github.com/Vipinmaury/E-Commerce)
 
-- **Top 5 Engineer**: recognized for deployment, application onboarding, and automation tool development
-- **GrowthHack, American Express**: semifinalist; built *AI Predictive Resilience* with a five-member team
-- **LeetCode**: 500+ problems solved
-
-### Featured Project
-
-**[E-Commerce Store](github.com/Vipinmaury/E-Commerce)**: full-stack online shopping platform
-
-**Stack:** React, Redux, Tailwind CSS, Node.js, Express, MongoDB
+Full-stack online shopping platform built with **React, Redux, Tailwind CSS, Node.js, Express, and MongoDB**.
 
 - Product browsing, cart, and order management
 - Redux state management with optimized MongoDB data access
 - JWT authentication with role-based access control
 - Real-time product updates through state synchronization
 
-### Education
+## Education
 
-**B.Tech, Information Technology**: Deen Dayal Upadhyaya Gorakhpur University · 2021–2025 · CGPA 7.41/10
+**B.Tech in Information Technology**  
+[Deen Dayal Upadhyaya Gorakhpur University](https://ddugu.ac.in/) · 2021–2025 · CGPA 7.41/10
 
 ---
 
-*Infrastructure as Code | GitOps | Automation First*
+<div align="center">
+
+**Infrastructure as Code · GitOps · Automation First**
+
+</div>
