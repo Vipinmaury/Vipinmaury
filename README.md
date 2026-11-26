@@ -1,11 +1,16 @@
-![Vipin Maurya, DevOps Engineer Apprentice at American Express](capsule-render.vercel.app/api?type=waving&color=…&…)
+<div align="center">
 
-![Terminal: find idle clusters, Argo CD sync, and Terraform plan](readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&…)
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=VIPIN%20MAURYA&fontSize=60&fontColor=00f5ff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20%E2%80%A2%20Cloud%20%E2%80%A2%20GitOps%20%E2%80%A2%20Automation&descAlignY=60&descSize=18" alt="Vipin Maurya" width="100%"/>
 
-[![LinkedIn](img.shields.io/badge/…?style=flat-square&logo=linkedin&…)](linkedin.com/in/…)
-[![GitHub](img.shields.io/badge/GitHub-Vipinmaury-a78bfa?style=flat-square&logo=github&…)](github.com/Vipinmaury)
-[![LeetCode](img.shields.io/badge/…?style=flat-square&logo=leetcode&…)](leetcode.com/mauryavipin751)
-![Based in Gurgaon, India](img.shields.io/badge/Based_in-Gurgaon%2C_India-a78bfa?style=flat-square&logo=googlemaps&…)
+<a href="https://github.com/Vipinmaury"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=00F5FF&center=true&vCenter=true&width=700&lines=%24+kubectl+get+clusters+--idle;%24+argocd+app+sync+production;%24+terraform+plan+-out%3Dfuture.tfplan;Building+resilient+cloud+platforms+on+AWS+%2B+GCP" alt="Typing animation"/></a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00f5ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29)](https://www.linkedin.com/in/vipin-maurya-54b28a215)
+[![LeetCode](https://img.shields.io/badge/LeetCode-500%2B_Solved-a78bfa?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0f0c29)](https://leetcode.com/mauryavipin751)
+![Location](https://img.shields.io/badge/Gurgaon%2C_India-ff00c8?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0f0c29)
+
+<img src="https://komarev.com/ghpvc/?username=Vipinmaury&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="views"/>
+
+</div>
 
 ---
 
@@ -32,7 +37,10 @@ DevOps Engineer Apprentice at **American Express** with 10 months of hands-on ex
 
 ### Delivery Pipeline
 
-Commit -> Secret Scan -> Build Image -> Image Scan -> Helm Digest -> Argo CD Sync -> EKS/GKE
+```mermaid
+flowchart LR
+  A[Commit] --> B[Secret Scan] --> C[Build Image] --> D[Image Scan] --> E[Helm Digest] --> F[Argo CD Sync] --> G[(EKS / GKE)]
+```
 
 ### Tech Stack
 
@@ -55,6 +63,13 @@ Prometheus, Grafana, CloudWatch, GCP Monitoring
 #### Workflow
 Linux, Postman, Jira, Confluence, ServiceNow, AWS DevOps Agent, macOS
 
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vipinmaury&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00f5ff&icon_color=a78bfa" alt="stats"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Vipinmaury&theme=tokyonight&hide_border=true&background=0f0c29&ring=00f5ff&fire=ff00c8&currStreakLabel=00f5ff" alt="streak"/>
+
+</div>
+
 ### Recognition
 
 - **Top 5 Engineer**: recognized for deployment, application onboarding, and automation tool development
@@ -63,7 +78,7 @@ Linux, Postman, Jira, Confluence, ServiceNow, AWS DevOps Agent, macOS
 
 ### Featured Project
 
-**[E-Commerce Store](github.com/Vipinmaury/E-Commerce)**: full-stack online shopping platform
+**[E-Commerce Store](https://github.com/Vipinmaury/E-Commerce)**: full-stack online shopping platform
 
 **Stack:** React, Redux, Tailwind CSS, Node.js, Express, MongoDB
 
@@ -78,4 +93,10 @@ Linux, Postman, Jira, Confluence, ServiceNow, AWS DevOps Agent, macOS
 
 ---
 
-*Infrastructure as Code | GitOps | Automation First*
+<div align="center"><i>Infrastructure as Code | GitOps | Automation First</i></div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%" alt=""/>
+
+</div>
