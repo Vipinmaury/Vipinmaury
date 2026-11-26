@@ -14,13 +14,13 @@
 
 ---
 
-### Overview
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=50&section=header&text=Overview&fontSize=24&fontColor=00f5ff&fontAlign=8&fontAlignY=50" alt="Overview" width="100%"/>
 
 DevOps Engineer Apprentice at **American Express** with 10 months of hands-on experience running cloud platforms on **AWS** and **GCP**. I work across **EKS/GKE** operations, GitOps delivery, Terraform-based infrastructure, and production support, with a focus on automation that reduces toil and cloud cost.
 
 **10 months** DevOps experience | **2** cloud platforms | **5** idle clusters retired | **Top 5** engineer recognition | **500+** LeetCode problems
 
-### Experience
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=50&section=header&text=Experience&fontSize=24&fontColor=00f5ff&fontAlign=8&fontAlignY=50" alt="Experience" width="100%"/>
 
 **DevOps Engineer Apprentice** · American Express
 *Jan 2026 - Present*
@@ -35,14 +35,14 @@ DevOps Engineer Apprentice at **American Express** with 10 months of hands-on ex
 | **Backend Engineering** | Internal application development with Python, FastAPI, and PostgreSQL |
 | **Reliability** | Major Incident Management, root-cause analysis, and RFC-driven change management |
 
-### Delivery Pipeline
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=50&section=header&text=Delivery%20Pipeline&fontSize=24&fontColor=00f5ff&fontAlign=8&fontAlignY=50" alt="Delivery Pipeline" width="100%"/>
 
 ```mermaid
 flowchart LR
   A[Commit] --> B[Secret Scan] --> C[Build Image] --> D[Image Scan] --> E[Helm Digest] --> F[Argo CD Sync] --> G[(EKS / GKE)]
 ```
 
-### Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=50&section=header&text=Tech%20Stack&fontSize=24&fontColor=00f5ff&fontAlign=8&fontAlignY=50" alt="Tech Stack" width="100%"/>
 
 <div align="center">
 
@@ -57,13 +57,13 @@ flowchart LR
 <tr><td align="center" bgcolor="#0d1117"><b>&#9881; CI/CD &amp; IaC</b><br/><br/>
 <img src="https://skillicons.dev/icons?i=terraform,githubactions,gitlab,git,github&theme=dark" alt="CICD"/></td>
 <td align="center" bgcolor="#0d1117"><b>&#128190; Backend &amp; Data</b><br/><br/>
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mongodb,nodejs,react&theme=dark" alt="Backend"/></td></tr>
+<img src="https://skillicons.dev/icons?i=py,fastapi,postgres,mongodb,nodejs,react&theme=dark" alt="Backend"/></td></tr>
 <tr><td align="center" bgcolor="#0d1117"><b>&#128225; Observability</b><br/><br/>
 <img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" alt="Observability"/><br/>
 <img src="https://img.shields.io/badge/CloudWatch-0d1117?style=for-the-badge&logo=amazoncloudwatch&logoColor=FF4F8B" alt="CloudWatch"/> <img src="https://img.shields.io/badge/GCP_Monitoring-0d1117?style=for-the-badge&logo=googlecloud&logoColor=4285F4" alt="GCP_Monitoring"/></td>
 <td align="center" bgcolor="#0d1117"><b>&#128736; Workflow</b><br/><br/>
-<img src="https://skillicons.dev/icons?i=postman,jira,confluence,bash&theme=dark" alt="Workflow"/><br/>
-<img src="https://img.shields.io/badge/ServiceNow-0d1117?style=for-the-badge&logo=servicenow&logoColor=81B5A1" alt="ServiceNow"/></td></tr>
+<img src="https://skillicons.dev/icons?i=postman,bash,linux&theme=dark" alt="Workflow"/><br/>
+<img src="https://img.shields.io/badge/ServiceNow-0d1117?style=for-the-badge&logo=servicenow&logoColor=81B5A1" alt="ServiceNow"/> <img src="https://img.shields.io/badge/Jira-0d1117?style=for-the-badge&logo=jira&logoColor=0052CC" alt="Jira"/> <img src="https://img.shields.io/badge/Confluence-0d1117?style=for-the-badge&logo=confluence&logoColor=1868DB" alt="Confluence"/></td></tr>
 </table>
 
 <sub>AWS: IAM, EC2, VPC, S3, ELB, Auto Scaling &nbsp;|&nbsp; GCP: Compute Engine, IAM, VPC, GCS, Cloud LB, MIGs</sub>
@@ -83,13 +83,13 @@ flowchart LR
 
 </div>
 
-### Recognition
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=50&section=header&text=Recognition&fontSize=24&fontColor=00f5ff&fontAlign=8&fontAlignY=50" alt="Recognition" width="100%"/>
 
 - **Top 5 Engineer**: recognized for deployment, application onboarding, and automation tool development
 - **GrowthHack, American Express**: semifinalist; built *AI Predictive Resilience* with a five-member team
 - **LeetCode**: 500+ problems solved
 
-### Featured Project
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=50&section=header&text=Featured%20Project&fontSize=24&fontColor=00f5ff&fontAlign=8&fontAlignY=50" alt="Featured Project" width="100%"/>
 
 **[E-Commerce Store](https://github.com/Vipinmaury/E-Commerce)**: full-stack online shopping platform
 
@@ -100,7 +100,7 @@ flowchart LR
 - JWT authentication with role-based access control
 - Real-time product updates through state synchronization
 
-### Education
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=50&section=header&text=Education&fontSize=24&fontColor=00f5ff&fontAlign=8&fontAlignY=50" alt="Education" width="100%"/>
 
 **B.Tech, Information Technology**: Deen Dayal Upadhyaya Gorakhpur University · 2021–2025 · CGPA 7.41/10
 
