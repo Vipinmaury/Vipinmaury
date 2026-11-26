@@ -44,29 +44,42 @@ flowchart LR
 
 ### Tech Stack
 
-#### Cloud
-AWS: IAM, EC2, VPC, S3, ELB, Auto Scaling
-GCP: Compute Engine, IAM, VPC, GCS, Cloud Load Balancing, MIGs
+<div align="center">
 
-#### Containers and GitOps
-Kubernetes (EKS/GKE), Docker, Helm, Argo CD
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&color=A78BFA&center=true&vCenter=true&width=500&lines=%2F%2F+cloud+%E2%80%A2+containers+%E2%80%A2+gitops+%E2%80%A2+observability" alt=""/>
 
-#### CI/CD and Infrastructure as Code
-Terraform, GitHub Actions, GitLab, Git, GitHub
+<table>
+<tr><td align="center" bgcolor="#0d1117"><b>&#9729; Cloud</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,linux&theme=dark" alt="Cloud"/></td>
+<td align="center" bgcolor="#0d1117"><b>&#128051; Containers &amp; GitOps</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=kubernetes,docker&theme=dark" alt="Containers"/><br/>
+<img src="https://img.shields.io/badge/Helm-0d1117?style=for-the-badge&logo=helm&logoColor=0F1689" alt="Helm"/> <img src="https://img.shields.io/badge/Argo_CD-0d1117?style=for-the-badge&logo=argo&logoColor=EF7B4D" alt="Argo_CD"/></td></tr>
+<tr><td align="center" bgcolor="#0d1117"><b>&#9881; CI/CD &amp; IaC</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=terraform,githubactions,gitlab,git,github&theme=dark" alt="CICD"/></td>
+<td align="center" bgcolor="#0d1117"><b>&#128190; Backend &amp; Data</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mongodb,nodejs,react&theme=dark" alt="Backend"/></td></tr>
+<tr><td align="center" bgcolor="#0d1117"><b>&#128225; Observability</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" alt="Observability"/><br/>
+<img src="https://img.shields.io/badge/CloudWatch-0d1117?style=for-the-badge&logo=amazoncloudwatch&logoColor=FF4F8B" alt="CloudWatch"/> <img src="https://img.shields.io/badge/GCP_Monitoring-0d1117?style=for-the-badge&logo=googlecloud&logoColor=4285F4" alt="GCP_Monitoring"/></td>
+<td align="center" bgcolor="#0d1117"><b>&#128736; Workflow</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=postman,jira,confluence,bash&theme=dark" alt="Workflow"/><br/>
+<img src="https://img.shields.io/badge/ServiceNow-0d1117?style=for-the-badge&logo=servicenow&logoColor=81B5A1" alt="ServiceNow"/></td></tr>
+</table>
 
-#### Backend and Data
-Python, FastAPI, PostgreSQL, MongoDB
+<sub>AWS: IAM, EC2, VPC, S3, ELB, Auto Scaling &nbsp;|&nbsp; GCP: Compute Engine, IAM, VPC, GCS, Cloud LB, MIGs</sub>
 
-#### Observability
-Prometheus, Grafana, CloudWatch, GCP Monitoring
-
-#### Workflow
-Linux, Postman, Jira, Confluence, ServiceNow, AWS DevOps Agent, macOS
+</div>
 
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vipinmaury&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00f5ff&icon_color=a78bfa" alt="stats"/>
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Vipinmaury&theme=tokyonight&hide_border=true&background=0f0c29&ring=00f5ff&fire=ff00c8&currStreakLabel=00f5ff" alt="streak"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vipinmaury&bg_color=0d1117&color=00f5ff&line=a78bfa&point=ff00c8&area=true&area_color=302b63&hide_border=true" width="100%" alt="activity graph"/>
 
 </div>
 
